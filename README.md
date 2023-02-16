@@ -3,7 +3,8 @@
 
 <img align ="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRkYzg3MGI1MzBhNWVjYTA0MzY2OWYzMDFkMzZkZmQzNGZmMDJiOCZjdD1n/ZVik7pBtu9dNS/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev4821&label=Profile%20views&color=0e75b6&style=flat" alt="dev4821" /> </p>
--  👨‍🎓i’m currently studying computer science
+
+- 👨‍🎓i’m currently studying computer science
  
 - 🌱 I’m currently learning **react, node and AWS**
 
